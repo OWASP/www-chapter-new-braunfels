@@ -1,3 +1,3 @@
 ### Leaders
-* [Harold Blankenship](mailto:kithwood@gmail.com)
-* [Matt Tesauro](mailto:mtesauro@gmail.com)
+* [Harold Blankenship](mailto:harold.blankenship@owasp.org)
+* [Matt Tesauro](mailto:matt.tesauro@owasp.org)
