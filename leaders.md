@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Harold Blankenship](mailto:kithwood@gmail.com)
+* [Matt Tesauro](mailto:mtesauro@gmail.com)
