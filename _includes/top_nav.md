@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{site_base_url}}assets/css/styles.css">
 
 
-![OWASP NBTX Chapter Logo](/assets/images/nbtx_logo.png)
+![OWASP NBTX Chapter Logo](assets/images/nbtx_logo.png)
 <br/>
 <br/>
 
