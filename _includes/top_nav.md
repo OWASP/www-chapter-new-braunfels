@@ -11,7 +11,7 @@
 {% if include.page == "home" %}
 <li><a href=""><strong>Home Page</strong></a></li>
 {%else%}
-<li><a href="/">Home Page</a></li>
+<li><a href="/www-chapter-new-braunfels/">Home Page</a></li>
 {%endif%}
 {%if include.page == "pastactivities"%}
 <li><a href=""><strong>Past Activities</strong></a></li>
