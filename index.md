@@ -7,15 +7,10 @@ region: North America
 meetup-group:
 
 ---
-![OWASP NBTX Chapter Logo](/assets/images/nbtx_logo.png)
-<br/>
-<br/>
 
-**Home Page**&nbsp;&nbsp;&nbsp;
-[Past Events](pastevents)&nbsp;&nbsp;&nbsp;
-[Sponsorship](sponsorship)&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
+{% include top_nav.md page="home" %}
+
+<br/><br/>
 
 ## Welcome
 Started in 2022, the OWASP New Braunfels chapter is located in a small town in the Central Texas Hill Country. Surrounded by San Marcos and Austin to the north and San Antonio to the south, [New Braunfels](https://nbtexas.org/) is home to many technology workers. This chapter
@@ -28,7 +23,7 @@ If you are interested in participating in the OWASP New Braunfels Chapter please
 be interested in, please drop an email to one of the leaders (listed to the right).
 
 
-Next Meeting/Event 
+Next Activity 
 ---------------------
 [TBA]
 {% include chapter_events.html group=page.meetup-group %}
