@@ -23,8 +23,18 @@ If you are interested in participating in the OWASP New Braunfels Chapter please
 be interested in, please drop an email to one of the leaders (listed to the right).
 
 
-Next Activity 
+Upcoming Activities
 ---------------------
-[TBA]
-{% include chapter_events.html group=page.meetup-group %}
+{% assign activities = site.data.activities | sort: "start-date" %}
+{% for activity in activities %}
+<hr>
+{:class='activity'}
+* ### {{ activity.name }}
 
+  **What: {{ activity.type | capitalize }}**<br>
+  **Date: {{ activity.start-date }}{% if activity.start-date != activity.end-date %} - {{ activity.end-date }}{% endif %}**<br>
+  **Time: {{ activity.start_time }} - {{ activity.end_time }}**<br>
+  **Description:**
+  {{ activity.description }}<br>
+
+{%endfor%}

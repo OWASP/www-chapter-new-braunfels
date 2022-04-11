@@ -1,0 +1,10 @@
+- type: meeting
+  name: First Meet and Greet
+  description: >-
+      The OWASP New Braunfels chapter will be holding a first meeting to establish the chapter among the community.
+      We will have a brief meet and greet session, talk about the chapter goals, and then engage in a little comaraderie.
+      Please join us!
+  start-date: 2022-04-22
+  end-date: 2022-04-22
+  start_time: 6 p.m.
+  end_time: 8 p.m.
