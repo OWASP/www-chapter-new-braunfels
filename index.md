@@ -34,6 +34,7 @@ Upcoming Activities
   **What: {{ activity.type | capitalize }}**<br>
   **Date: {{ activity.start-date }}{% if activity.start-date != activity.end-date %} - {{ activity.end-date }}{% endif %}**<br>
   **Time: {{ activity.start_time }} - {{ activity.end_time }}**<br>
+  **Where: {{ activity.where }}**<br>
   **Description:**
   {{ activity.description }}<br>
 
