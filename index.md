@@ -35,6 +35,7 @@ Upcoming Activities
   **Date: {{ activity.start-date }}{% if activity.start-date != activity.end-date %} - {{ activity.end-date }}{% endif %}**<br>
   **Time: {{ activity.start_time }} - {{ activity.end_time }}**<br>
   **Where: {{ activity.where }}**<br>
+  **[RSVP]({{ activity.rsvp_url }})**<br>
   **Description:**
   {{ activity.description }}<br>
 
