@@ -41,5 +41,3 @@ Upcoming Activities
 
 {%endfor%}
 
-
-{% include chapter_events.html %}
