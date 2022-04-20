@@ -40,3 +40,6 @@ Upcoming Activities
   {{ activity.description }}<br>
 
 {%endfor%}
+
+
+{% include chapter_events.html %}
