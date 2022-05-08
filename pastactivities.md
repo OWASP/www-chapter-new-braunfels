@@ -10,7 +10,7 @@ tags: chapter, New Braunfels, Texas, NBTX
 {%if site.data.pastactivities == false or site.data.pastactivities.size < 1 %}
 There are no past activities.
 {%else%}
-{% assign activities = site.data.activities | sort: "start-date" | reverse %}
+{% assign activities = site.data.pastactivities | sort: "start-date" | reverse %}
 {% for activity in activities %}
 <hr>
 {:class='activity'}

@@ -25,6 +25,7 @@ be interested in, please drop an email to one of the leaders (listed to the righ
 
 Upcoming Activities
 ---------------------
+{% if site.data.activities.length > 0 %}
 {% assign activities = site.data.activities | sort: "start-date" %}
 {% for activity in activities %}
 <hr>
@@ -39,4 +40,7 @@ Upcoming Activities
   **Description:**
   {{ activity.description }}<br>
 
-{%endfor%}
+{% endfor %}
+{% else %}
+None currently scheduled
+{% endif %}

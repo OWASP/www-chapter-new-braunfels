@@ -1,0 +1,14 @@
+- type: meeting
+  name: First Meet and Greet
+  description: >-
+      The OWASP New Braunfels chapter will be holding a first meeting to establish the chapter among the community.
+      We will have a brief meet and greet session, talk about the chapter goals, and then engage in a little comaraderie.
+      Please join us!
+  start-date: 2022-04-23
+  end-date: 2022-04-23
+  start_time: 12 p.m.
+  end_time: 2 p.m.
+  rsvp_url: rsvp/
+  where: >-
+      Guadalupe Brewing Company<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;1586 Wald Rd, New Braunfels, TX 78132
