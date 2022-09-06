@@ -1,1 +1,14 @@
 
+- type: meeting
+  name: September 2022
+  description: >-
+      The OWASP New Braunfels chapter will have a brief meet and greet session, talk about the chapter goals, determine next agenda, 
+      and then engage in a little comaraderie. Please join us!
+  start-date: 2022-09-24
+  end-date: 2022-09-24
+  start_time: 12 p.m.
+  end_time: 2 p.m.
+  rsvp_url: rsvp/
+  where: >-
+      Guadalupe Brewing Company<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;1586 Wald Rd, New Braunfels, TX 78132
