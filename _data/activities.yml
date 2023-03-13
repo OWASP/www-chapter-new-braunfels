@@ -1,1 +1,13 @@
-
+- type: meeting
+  name: March 2023
+  description: >-
+      The OWASP New Braunfels chapter will discuss better ways to engage the community, the emergence of the 
+      San Antonio chapter, Defect Dojo, and the new Developer Guide. Please join us!
+  start-date: 2023-03-25
+  end-date: 2023-03-25
+  start_time: 12 p.m.
+  end_time: 2 p.m.
+  rsvp_url: rsvp/
+  where: >-
+      Guadalupe Brewing Company<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;1586 Wald Rd, New Braunfels, TX 78132
