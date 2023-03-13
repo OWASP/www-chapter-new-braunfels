@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP New Braunfels
 tags: chapter, New Braunfels, Texas, NBTX
 region: North America
-meetup-group:
+meetup-group: owasp-new-braunfels-chapter
 
 ---
 
