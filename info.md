@@ -1,5 +1,5 @@
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-new-braunfels-chapter/)
 * [Slack](#)
 
 
